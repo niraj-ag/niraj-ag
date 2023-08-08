@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://instagram.com/niraj_ag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niraj_ag" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@futurex_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@futurex_" height="30" width="40" /></a>
-<a href="https://discord.gg/futurex7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="futurex7" height="30" width="40" /></a>
+<a href="https://discord.gg/zSZyAveds9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="futurex7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
