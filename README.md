@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niraj Kumar Agarwal</h1>
-<h3 align="center" id="demo">Just Learning 😁</h3>
+<h3 align="center" id="demo">Still debugging my way to greatness 😎</h3>
 
 <p align="center"> <img src="train pixel.gif" height="359" width="600"> </p>
 
@@ -19,8 +19,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=niraj-ag&theme=aura&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=niraj-ag&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=niraj-ag&icon=0&color=2)](https://visitcount.itsvg.in)
