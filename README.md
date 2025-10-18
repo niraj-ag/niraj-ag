@@ -6,7 +6,25 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=futurex7&label=Profile%20views&color=0e75b6&style=flat" alt="futurex7"/> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on<br>Frontend development at Capgemini, building interactive and scalable React.js applications.<br><br>👯 I’m looking to collaborate on<br>MERN stack and full-stack projects that combine great design with solid backend logic.<br><br>🤝 I’m looking for help with<br>Enhancing performance in React apps and improving backend integration using Node.js & Express.<br><br>🌱 I’m currently learning<br>Advanced Node.js, Express, and MongoDB to strengthen my full-stack skills.<br><br>💬 Ask me about<br>Frontend development, React, UI/UX, or even video games and football ⚽🎮<br><br>⚡ Fun fact<br>I see coding and gaming as similar — both need strategy, teamwork, and creativity.
+
+🔭 **I’m currently working on**  
+Frontend development at **Capgemini**, crafting interactive and scalable **React.js** applications.  
+
+👯 **I’m looking to collaborate on**  
+**MERN stack** and **full-stack** projects that blend great UI with solid backend logic.  
+
+🤝 **I’m looking for help with**  
+Optimizing **React performance** and integrating efficient **Node.js/Express** backends.  
+
+🌱 **I’m currently learning**  
+Advanced **Node.js**, **Express**, and **MongoDB** to become a stronger **Full-Stack Developer**.  
+
+💬 **Ask me about**  
+**Frontend development**, **React**, **UI/UX**, or even **video games and football** ⚽🎮  
+
+⚡ **Fun fact**  
+I believe coding and gaming are basically the same thing — **strategy, teamwork, and rage-quitting included 😅**  
+
 
 
 ## 🌐 Socials:
